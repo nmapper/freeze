@@ -1,0 +1,2 @@
+# freeze
+Freezes home directory 
